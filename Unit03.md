@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA232: Abstract Algebra II"
+course_description: "A review of groups, rings, fields and mappings, developing into an examination of ring factorization, lattices, vector spaces as well as more advanced topics and theorems."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Vector Spaces** <span id="3"></span> 
 ***Vector spaces ****are among the most useful structures in
 mathematics.  Used heavily in economics and finance as well as

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA232: Abstract Algebra II"
+course_description: "A review of groups, rings, fields and mappings, developing into an examination of ring factorization, lattices, vector spaces as well as more advanced topics and theorems."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Advanced Discussion of Rings** <span id="2"></span> 
 *We begin Unit 2 by returning to the idea of polynomial rings, which we
 first encountered in Abstract Algebra I.  These are rings that have a

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA232: Abstract Algebra II"
+course_description: "A review of groups, rings, fields and mappings, developing into an examination of ring factorization, lattices, vector spaces as well as more advanced topics and theorems."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Advanced Discussion on Groups** <span id="1"></span> 
 *We will begin this unit with a series of counting methods involving
 groups.  We will start with **Lagrange’s Theorem**.  Joseph Lagrange

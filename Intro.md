@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA232: Abstract Algebra II"
+course_description: "A review of groups, rings, fields and mappings, developing into an examination of ring factorization, lattices, vector spaces as well as more advanced topics and theorems."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "MA232: Abstract Algebra II"
 ------------------------------------------------
 

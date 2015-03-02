@@ -1,3 +1,10 @@
+---
+layout: default
+title: "MA232: Abstract Algebra II"
+course_description: "A review of groups, rings, fields and mappings, developing into an examination of ring factorization, lattices, vector spaces as well as more advanced topics and theorems."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Galois Theory** <span id="4"></span> 
 *Unit 4 concerns one of the most important theories in abstract algebra:
 Galois theory.  Evariste Galois is one of the most enigmatic figures in
