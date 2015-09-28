@@ -75,3 +75,4 @@ Handbook.](http://www.saylor.org/site/wp-content/uploads/2012/05/Saylor-StudentH
 - [Unit 3](https://legacy.saylor.org/ma232/Unit03/)
 - [Unit 4](https://legacy.saylor.org/ma232/Unit04/)
 - [Unit 5](https://legacy.saylor.org/ma232/Unit05/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/MA/MA232/MA232-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/MA/MA232/MA232-FinalExam-Answers.html)
