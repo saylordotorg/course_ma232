@@ -112,12 +112,12 @@ Upon successful completion of this unit, the student will be able to:
     Theorem”**
     Link: Stephen F. Austin State University: Thomas W. Judson’s
     ["Abstract Algebra Theory and
-    Applications"](http://www.saylor.org/site/wp-content/uploads/2011/09/MA232-AbstractAlgebraText.pdf):
+    Applications"](https://resources.saylor.org/archived/wp-content/uploads/2011/09/MA232-AbstractAlgebraText.pdf):
     “Cosets and Lagrange’s Theorem” (PDF)  
       
      Also available in:  
 
-    [iBooks](http://www.saylor.org/site/wp-content/uploads/2011/09/Abstract-Algebra_-Theory-and-Applicatio-Thomas-W.-Judson.epub)  
+    [iBooks](https://resources.saylor.org/archived/wp-content/uploads/2011/09/Abstract-Algebra_-Theory-and-Applicatio-Thomas-W.-Judson.epub)  
         
      Instructions: Please read Chapter 6: Cosets and Lagrange’s Theorem,
     pages 92 – 97.  
@@ -152,12 +152,12 @@ Upon successful completion of this unit, the student will be able to:
     “Abstract Algebra Theory and Applications”: “Group Actions”**
     Link: Stephen F. Austin State University: Thomas W. Judson’s
     “[Abstract Algebra Theory and
-    Applications](http://www.saylor.org/site/wp-content/uploads/2011/09/MA232-AbstractAlgebraText.pdf)”:
+    Applications](https://resources.saylor.org/archived/wp-content/uploads/2011/09/MA232-AbstractAlgebraText.pdf)”:
     “Group Actions” (PDF)  
       
      Also available in:  
 
-    [iBooks](http://www.saylor.org/site/wp-content/uploads/2011/09/Abstract-Algebra_-Theory-and-Applicatio-Thomas-W.-Judson.epub)  
+    [iBooks](https://resources.saylor.org/archived/wp-content/uploads/2011/09/Abstract-Algebra_-Theory-and-Applicatio-Thomas-W.-Judson.epub)  
         
      Instructions: Please read Chapter 14: Group Actions, pages 209 –
     223.  
@@ -174,12 +174,12 @@ Upon successful completion of this unit, the student will be able to:
     “Exercise Problems 1, 2, and 3”**
     Link: Stephen F. Austin State University: Thomas W. Judson’s
     “[Abstract Algebra Theory and
-    Applications](http://www.saylor.org/site/wp-content/uploads/2011/09/MA232-AbstractAlgebraText.pdf)”:
+    Applications](https://resources.saylor.org/archived/wp-content/uploads/2011/09/MA232-AbstractAlgebraText.pdf)”:
     “Group Actions”: “Exercise Problems 1, 2, and 3” (PDF)  
       
      Also available in:  
 
-    [iBooks](http://www.saylor.org/site/wp-content/uploads/2011/09/Abstract-Algebra_-Theory-and-Applicatio-Thomas-W.-Judson.epub)  
+    [iBooks](https://resources.saylor.org/archived/wp-content/uploads/2011/09/Abstract-Algebra_-Theory-and-Applicatio-Thomas-W.-Judson.epub)  
         
      Instructions: Do problems 1, 2, and 3 on page 224.  The solutions
     can be found on page 403.  
@@ -197,12 +197,12 @@ Upon successful completion of this unit, the student will be able to:
     Class Equation”**
     Link: Stephen F. Austin State University: Thomas W. Judson’s
     “[Abstract Algebra Theory and
-    Applications](http://www.saylor.org/site/wp-content/uploads/2011/09/MA232-AbstractAlgebraText.pdf)”:
+    Applications](https://resources.saylor.org/archived/wp-content/uploads/2011/09/MA232-AbstractAlgebraText.pdf)”:
     “Group Actions”: “The Class Equation” (PDF)  
       
      Also available in:  
 
-    [iBooks](http://www.saylor.org/site/wp-content/uploads/2011/09/Abstract-Algebra_-Theory-and-Applicatio-Thomas-W.-Judson.epub)  
+    [iBooks](https://resources.saylor.org/archived/wp-content/uploads/2011/09/Abstract-Algebra_-Theory-and-Applicatio-Thomas-W.-Judson.epub)  
         
      Instructions: Please read Chapter 14.2: The Class Equation, pages
     213 – 215.  
@@ -216,7 +216,7 @@ Upon successful completion of this unit, the student will be able to:
 
 -   **Reading: Wikipedia's “Order (group theory)”**
     Link: Wikipedia’s “[Order (group
-    theory)](http://www.saylor.org/site/wp-content/uploads/2011/05/Order-group-theory.pdf)”
+    theory)](https://resources.saylor.org/archived/wp-content/uploads/2011/05/Order-group-theory.pdf)”
     (PDF)  
         
      Instructions: Please click on the link above to read the material. 
@@ -234,12 +234,12 @@ Upon successful completion of this unit, the student will be able to:
     “Exercise Problems 6, 8, and 11”**
     Link: Stephen F. Austin State University: Thomas W. Judson’s
     “[Abstract Algebra Theory and
-    Applications](http://www.saylor.org/site/wp-content/uploads/2011/09/MA232-AbstractAlgebraText.pdf)”:
+    Applications](https://resources.saylor.org/archived/wp-content/uploads/2011/09/MA232-AbstractAlgebraText.pdf)”:
     “Group Actions”: “Exercise Problems 6, 8, and 11” (PDF)  
       
      Also available in:  
 
-    [iBooks](http://www.saylor.org/site/wp-content/uploads/2011/09/Abstract-Algebra_-Theory-and-Applicatio-Thomas-W.-Judson.epub)  
+    [iBooks](https://resources.saylor.org/archived/wp-content/uploads/2011/09/Abstract-Algebra_-Theory-and-Applicatio-Thomas-W.-Judson.epub)  
         
      Instructions: Do problems 6, 8, and 11 on page 224.  The solutions
     can be found on page 403.  
@@ -257,12 +257,12 @@ Upon successful completion of this unit, the student will be able to:
     “Burnside's Counting Theorem”**
     Link: Stephen F. Austin State University: Thomas W. Judson’s
     “[Abstract Algebra Theory and
-    Applications](http://www.saylor.org/site/wp-content/uploads/2011/09/MA232-AbstractAlgebraText.pdf)”:
+    Applications](https://resources.saylor.org/archived/wp-content/uploads/2011/09/MA232-AbstractAlgebraText.pdf)”:
     “Group Actions”: “Burnside's Counting Theorem” (PDF)  
       
      Also available in:  
 
-    [iBooks](http://www.saylor.org/site/wp-content/uploads/2011/09/Abstract-Algebra_-Theory-and-Applicatio-Thomas-W.-Judson.epub)  
+    [iBooks](https://resources.saylor.org/archived/wp-content/uploads/2011/09/Abstract-Algebra_-Theory-and-Applicatio-Thomas-W.-Judson.epub)  
         
      Instructions: Please read Chapter 14.3: Burnside's Counting
     Theorem, pages 215 – 222.  
@@ -276,7 +276,7 @@ Upon successful completion of this unit, the student will be able to:
 
 -   **Reading: Wikipedia's “Burnside's Lemma”**
     Link: Wikipedia’s “[Burnside's
-    Lemma](http://www.saylor.org/site/wp-content/uploads/2011/05/Burnsides-Lemma.pdf)”
+    Lemma](https://resources.saylor.org/archived/wp-content/uploads/2011/05/Burnsides-Lemma.pdf)”
     (PDF)  
         
      Instructions: Please click on the link above to read the
@@ -293,12 +293,12 @@ Upon successful completion of this unit, the student will be able to:
     “Abstract Algebra Theory and Applications”: “The Sylow Theorems”**
     Link: Stephen F. Austin State University: Thomas W. Judson’s
     “[Abstract Algebra Theory and
-    Applications](http://www.saylor.org/site/wp-content/uploads/2011/09/MA232-AbstractAlgebraText.pdf)”:
+    Applications](https://resources.saylor.org/archived/wp-content/uploads/2011/09/MA232-AbstractAlgebraText.pdf)”:
     “The Sylow Theorems” (PDF)  
       
      Also available in:  
 
-    [iBooks](http://www.saylor.org/site/wp-content/uploads/2011/09/Abstract-Algebra_-Theory-and-Applicatio-Thomas-W.-Judson.epub)  
+    [iBooks](https://resources.saylor.org/archived/wp-content/uploads/2011/09/Abstract-Algebra_-Theory-and-Applicatio-Thomas-W.-Judson.epub)  
         
      Instructions: Please read Chapter 15: The Sylow Theorems, pages 227
     – 235.  
@@ -331,12 +331,12 @@ Upon successful completion of this unit, the student will be able to:
     “Exercise Problems 1, 2, and 17”**
     Link: Stephen F. Austin State University: Thomas W. Judson’s
     “[Abstract Algebra Theory and
-    Applications](http://www.saylor.org/site/wp-content/uploads/2011/09/MA232-AbstractAlgebraText.pdf)”:
+    Applications](https://resources.saylor.org/archived/wp-content/uploads/2011/09/MA232-AbstractAlgebraText.pdf)”:
     “The Sylow Theorems”: “Exercise Problems 1, 2, and 17” (PDF)  
       
      Also available in:  
 
-    [iBooks](http://www.saylor.org/site/wp-content/uploads/2011/09/Abstract-Algebra_-Theory-and-Applicatio-Thomas-W.-Judson.epub)  
+    [iBooks](https://resources.saylor.org/archived/wp-content/uploads/2011/09/Abstract-Algebra_-Theory-and-Applicatio-Thomas-W.-Judson.epub)  
         
      Instructions: Do problems 1, 2, and 17 on page 235 – 236.  The
     solutions can be found on page 404.  
@@ -354,12 +354,12 @@ Upon successful completion of this unit, the student will be able to:
     Groups”: “Finite Abelian Groups”**
     Link: Stephen F. Austin State University: Thomas W. Judson’s
     “[Abstract Algebra Theory and
-    Applications](http://www.saylor.org/site/wp-content/uploads/2011/09/MA232-AbstractAlgebraText.pdf)”:
+    Applications](https://resources.saylor.org/archived/wp-content/uploads/2011/09/MA232-AbstractAlgebraText.pdf)”:
     “The Structure of Groups”: “Finite Abelian Groups” (PDF)  
       
      Also available in:  
 
-    [iBooks](http://www.saylor.org/site/wp-content/uploads/2011/09/Abstract-Algebra_-Theory-and-Applicatio-Thomas-W.-Judson.epub)  
+    [iBooks](https://resources.saylor.org/archived/wp-content/uploads/2011/09/Abstract-Algebra_-Theory-and-Applicatio-Thomas-W.-Judson.epub)  
         
      Instructions: Please read 13.1: Finite Abelian Groups, pages 196 –
     201.  
@@ -373,7 +373,7 @@ Upon successful completion of this unit, the student will be able to:
 
 -   **Reading: Wikipedia's “Abelian Group”**
     Link: Wikipedia’s “[Abelian
-    Group](http://www.saylor.org/site/wp-content/uploads/2011/05/Abelian-group.pdf)”
+    Group](https://resources.saylor.org/archived/wp-content/uploads/2011/05/Abelian-group.pdf)”
     (PDF)  
         
      Instructions: Please click on the link above and read the material.
@@ -407,12 +407,12 @@ Upon successful completion of this unit, the student will be able to:
     Groups”: “Exercise Problems 1, 4, and 7”**
     Link: Stephen F. Austin State University: Thomas W. Judson’s
     “[Abstract Algebra Theory and
-    Applications](http://www.saylor.org/site/wp-content/uploads/2011/09/MA232-AbstractAlgebraText.pdf)”:
+    Applications](https://resources.saylor.org/archived/wp-content/uploads/2011/09/MA232-AbstractAlgebraText.pdf)”:
     “The Structure of Groups”: “Exercise Problems 1, 4, and 7” (PDF)  
       
      Also available in:  
 
-    [iBooks](http://www.saylor.org/site/wp-content/uploads/2011/09/Abstract-Algebra_-Theory-and-Applicatio-Thomas-W.-Judson.epub)  
+    [iBooks](https://resources.saylor.org/archived/wp-content/uploads/2011/09/Abstract-Algebra_-Theory-and-Applicatio-Thomas-W.-Judson.epub)  
         
      Instructions: Do problems 1, 4, and 7 on page 205 – 206.  The
     solutions can be found on page 403.  
@@ -430,13 +430,13 @@ Upon successful completion of this unit, the student will be able to:
     Groups”: “Exercise Problems 12, 16, and 21”**
     Link: Stephen F. Austin State University: Thomas W. Judson’s
     “[Abstract Algebra Theory and
-    Applications](http://www.saylor.org/site/wp-content/uploads/2011/09/MA232-AbstractAlgebraText.pdf)”:
+    Applications](https://resources.saylor.org/archived/wp-content/uploads/2011/09/MA232-AbstractAlgebraText.pdf)”:
     “The Structure of Groups”: “Exercise Problems 12, 16, and 21”
     (PDF)  
       
      Also available in:  
 
-    [iBooks](http://www.saylor.org/site/wp-content/uploads/2011/09/Abstract-Algebra_-Theory-and-Applicatio-Thomas-W.-Judson.epub)  
+    [iBooks](https://resources.saylor.org/archived/wp-content/uploads/2011/09/Abstract-Algebra_-Theory-and-Applicatio-Thomas-W.-Judson.epub)  
         
      Instructions: Do problems 12, 16, and 21 on pages 206 – 207.  The
     solutions can be found on page 403.  
@@ -453,12 +453,12 @@ Upon successful completion of this unit, the student will be able to:
     Groups”: “Solvable Groups”**
     Link: Stephen F. Austin State University: Thomas W. Judson’s
     “[Abstract Algebra Theory and
-    Applications](http://www.saylor.org/site/wp-content/uploads/2011/09/MA232-AbstractAlgebraText.pdf)”:
+    Applications](https://resources.saylor.org/archived/wp-content/uploads/2011/09/MA232-AbstractAlgebraText.pdf)”:
     “The Structure of Groups”: “Solvable Groups” (PDF)  
       
      Also available in:  
 
-    [iBooks](http://www.saylor.org/site/wp-content/uploads/2011/09/Abstract-Algebra_-Theory-and-Applicatio-Thomas-W.-Judson.epub)  
+    [iBooks](https://resources.saylor.org/archived/wp-content/uploads/2011/09/Abstract-Algebra_-Theory-and-Applicatio-Thomas-W.-Judson.epub)  
         
      Instructions: Please read 13.2: Solvable Groups, pages 201 – 205.  
         
@@ -471,7 +471,7 @@ Upon successful completion of this unit, the student will be able to:
 
 -   **Reading: Wikipedia's “Solvable Group”**
     Link: Wikipedia “[Solvable
-    Group](http://www.saylor.org/site/wp-content/uploads/2011/05/Solvable-group.pdf)”
+    Group](https://resources.saylor.org/archived/wp-content/uploads/2011/05/Solvable-group.pdf)”
     (PDF)  
         
      Instructions: Please click on the link above and read the
@@ -501,7 +501,7 @@ Upon successful completion of this unit, the student will be able to:
 
 -   **Reading: Wikipedia's “Nilpotent Group”**
     Link: Wikipeda’s “[Nilpotent
-    Group](http://www.saylor.org/site/wp-content/uploads/2011/05/Nilpotent-group.pdf)”
+    Group](https://resources.saylor.org/archived/wp-content/uploads/2011/05/Nilpotent-group.pdf)”
     (PDF)  
         
      Instructions: Please click on the link above to read the material. 
