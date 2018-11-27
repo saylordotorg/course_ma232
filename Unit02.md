@@ -90,12 +90,12 @@ Upon successful completion of this unit, the student will be able to:
     “Abstract Algebra Theory and Applications”: “Polynomials”**
     Link: Stephen F. Austin State University: Thomas W. Judson’s
     “[Abstract Algebra Theory and
-    Applications](http://www.saylor.org/site/wp-content/uploads/2011/09/MA232-AbstractAlgebraText.pdf)”:
+    Applications](https://resources.saylor.org/archived/wp-content/uploads/2011/09/MA232-AbstractAlgebraText.pdf)”:
     “Polynomials” (PDF)  
       
      Also available in:  
 
-    [iBooks](http://www.saylor.org/site/wp-content/uploads/2011/09/Abstract-Algebra_-Theory-and-Applicatio-Thomas-W.-Judson.epub)  
+    [iBooks](https://resources.saylor.org/archived/wp-content/uploads/2011/09/Abstract-Algebra_-Theory-and-Applicatio-Thomas-W.-Judson.epub)  
         
      Instructions: Please read 17.1: Polynomial Rings, pages 264 –
     267.  
@@ -112,12 +112,12 @@ Upon successful completion of this unit, the student will be able to:
     Problem 2”**
     Link: Stephen F. Austin State University: Thomas W. Judson’s
     “[Abstract Algebra Theory and
-    Applications](http://www.saylor.org/site/wp-content/uploads/2011/09/MA232-AbstractAlgebraText.pdf)”
+    Applications](https://resources.saylor.org/archived/wp-content/uploads/2011/09/MA232-AbstractAlgebraText.pdf)”
     (PDF): “Polynomials”: “Exercise Problem 2”  
       
      Also available in:  
 
-    [iBooks](http://www.saylor.org/site/wp-content/uploads/2011/09/Abstract-Algebra_-Theory-and-Applicatio-Thomas-W.-Judson.epub)  
+    [iBooks](https://resources.saylor.org/archived/wp-content/uploads/2011/09/Abstract-Algebra_-Theory-and-Applicatio-Thomas-W.-Judson.epub)  
         
      Instructions: Do problem 2 on page 278.  The solution can be found
     on page 405.  
@@ -134,12 +134,12 @@ Upon successful completion of this unit, the student will be able to:
     “Abstract Algebra Theory and Applications”: “Polynomials”**
     Link: Stephen F. Austin State University: Thomas W. Judson’s
     “[Abstract Algebra Theory and
-    Applications](http://www.saylor.org/site/wp-content/uploads/2011/09/MA232-AbstractAlgebraText.pdf)”
+    Applications](https://resources.saylor.org/archived/wp-content/uploads/2011/09/MA232-AbstractAlgebraText.pdf)”
     (PDF): “Polynomials”  
       
      Also available in:  
 
-    [iBooks](http://www.saylor.org/site/wp-content/uploads/2011/09/Abstract-Algebra_-Theory-and-Applicatio-Thomas-W.-Judson.epub)  
+    [iBooks](https://resources.saylor.org/archived/wp-content/uploads/2011/09/Abstract-Algebra_-Theory-and-Applicatio-Thomas-W.-Judson.epub)  
         
      Instructions: Please read 17.2: The Division Algorithm, pages 268 –
     271.  
@@ -156,12 +156,12 @@ Upon successful completion of this unit, the student will be able to:
     Problems 3 and 5”**
     Link: Stephen F. Austin State University: Thomas W. Judson’s
     “[Abstract Algebra Theory and
-    Applications](http://www.saylor.org/site/wp-content/uploads/2011/09/MA232-AbstractAlgebraText.pdf)”
+    Applications](https://resources.saylor.org/archived/wp-content/uploads/2011/09/MA232-AbstractAlgebraText.pdf)”
     (PDF): “Polynomials”: “Exercise Problems 3 and 5”  
       
      Also available in:  
 
-    [iBooks](http://www.saylor.org/site/wp-content/uploads/2011/09/Abstract-Algebra_-Theory-and-Applicatio-Thomas-W.-Judson.epub)  
+    [iBooks](https://resources.saylor.org/archived/wp-content/uploads/2011/09/Abstract-Algebra_-Theory-and-Applicatio-Thomas-W.-Judson.epub)  
         
      Instructions: Do problems 3 and 5 on page 278 – 279.  The solutions
     can be found on page 405.  
@@ -178,12 +178,12 @@ Upon successful completion of this unit, the student will be able to:
     “Abstract Algebra Theory and Applications”: “Polynomials”**
     Link: Stephen F. Austin State University: Thomas W. Judson’s
     “[Abstract Algebra Theory and
-    Applications](http://www.saylor.org/site/wp-content/uploads/2011/09/MA232-AbstractAlgebraText.pdf)”
+    Applications](https://resources.saylor.org/archived/wp-content/uploads/2011/09/MA232-AbstractAlgebraText.pdf)”
     (PDF): “Polynomials”  
       
      Also available in:  
 
-    [iBooks](http://www.saylor.org/site/wp-content/uploads/2011/09/Abstract-Algebra_-Theory-and-Applicatio-Thomas-W.-Judson.epub)  
+    [iBooks](https://resources.saylor.org/archived/wp-content/uploads/2011/09/Abstract-Algebra_-Theory-and-Applicatio-Thomas-W.-Judson.epub)  
         
      Instructions: Please read 17.3: Irreducible Polynomials, pages 272
     – 277.  
@@ -199,12 +199,12 @@ Upon successful completion of this unit, the student will be able to:
     “Abstract Algebra Theory and Applications”**
     Link: Stephen F. Austin State University: Thomas W. Judson’s
     “[Abstract Algebra Theory and
-    Applications](http://www.saylor.org/site/wp-content/uploads/2011/09/MA232-AbstractAlgebraText.pdf)”
+    Applications](https://resources.saylor.org/archived/wp-content/uploads/2011/09/MA232-AbstractAlgebraText.pdf)”
     (PDF)  
       
      Also available in:  
 
-    [iBooks](http://www.saylor.org/site/wp-content/uploads/2011/09/Abstract-Algebra_-Theory-and-Applicatio-Thomas-W.-Judson.epub)  
+    [iBooks](https://resources.saylor.org/archived/wp-content/uploads/2011/09/Abstract-Algebra_-Theory-and-Applicatio-Thomas-W.-Judson.epub)  
         
      Instructions: Do problems 3 and 5 on page 278 – 279.  The solutions
     can be found on page 405.  
@@ -221,12 +221,12 @@ Upon successful completion of this unit, the student will be able to:
     “Abstract Algebra Theory and Applications”: “Integral Domains”**
     Link: Stephen F. Austin State University: Thomas W. Judson’s
     “[Abstract Algebra Theory and
-    Applications](http://www.saylor.org/site/wp-content/uploads/2011/09/MA232-AbstractAlgebraText.pdf)”
+    Applications](https://resources.saylor.org/archived/wp-content/uploads/2011/09/MA232-AbstractAlgebraText.pdf)”
     (PDF): “Integral Domains”  
       
      Also available in:  
 
-    [iBooks](http://www.saylor.org/site/wp-content/uploads/2011/09/Abstract-Algebra_-Theory-and-Applicatio-Thomas-W.-Judson.epub)  
+    [iBooks](https://resources.saylor.org/archived/wp-content/uploads/2011/09/Abstract-Algebra_-Theory-and-Applicatio-Thomas-W.-Judson.epub)  
         
      Instructions: Please read 18.1: Field of Fractions, pages 283 –
     287.  
@@ -243,12 +243,12 @@ Upon successful completion of this unit, the student will be able to:
     “Exercise Problem 1”**
     Link: Stephen F. Austin State University: Thomas W. Judson’s
     “[Abstract Algebra Theory and
-    Applications](http://www.saylor.org/site/wp-content/uploads/2011/09/MA232-AbstractAlgebraText.pdf)”
+    Applications](https://resources.saylor.org/archived/wp-content/uploads/2011/09/MA232-AbstractAlgebraText.pdf)”
     (PDF): “Integral Domains”: “Exercise Problem 1”  
       
      Also available in:  
 
-    [iBooks](http://www.saylor.org/site/wp-content/uploads/2011/09/Abstract-Algebra_-Theory-and-Applicatio-Thomas-W.-Judson.epub)  
+    [iBooks](https://resources.saylor.org/archived/wp-content/uploads/2011/09/Abstract-Algebra_-Theory-and-Applicatio-Thomas-W.-Judson.epub)  
         
      Instructions: Do problem 1 on page 297.  The solution can be found
     on page 406.  
@@ -265,12 +265,12 @@ Upon successful completion of this unit, the student will be able to:
     “Abstract Algebra Theory and Applications”: “Integral Domains”**
     Link: Stephen F. Austin State University: Thomas W. Judson’s
     “[Abstract Algebra Theory and
-    Applications](http://www.saylor.org/site/wp-content/uploads/2011/09/MA232-AbstractAlgebraText.pdf)”
+    Applications](https://resources.saylor.org/archived/wp-content/uploads/2011/09/MA232-AbstractAlgebraText.pdf)”
     (PDF): “Integral Domains”  
       
      Also available in:  
 
-    [iBooks](http://www.saylor.org/site/wp-content/uploads/2011/09/Abstract-Algebra_-Theory-and-Applicatio-Thomas-W.-Judson.epub)  
+    [iBooks](https://resources.saylor.org/archived/wp-content/uploads/2011/09/Abstract-Algebra_-Theory-and-Applicatio-Thomas-W.-Judson.epub)  
         
      Instructions: Please read 18.2: Factorization of Integral Domains,
     pages 287 – 296.  
@@ -287,12 +287,12 @@ Upon successful completion of this unit, the student will be able to:
     “Exercise Problem 2”**
     Link: Stephen F. Austin State University: Thomas W. Judson’s
     “[Abstract Algebra Theory and
-    Applications](http://www.saylor.org/site/wp-content/uploads/2011/09/MA232-AbstractAlgebraText.pdf)”
+    Applications](https://resources.saylor.org/archived/wp-content/uploads/2011/09/MA232-AbstractAlgebraText.pdf)”
     (PDF): “Integral Domains”: “Exercise Problem 2”  
       
      Also available in:  
 
-    [iBooks](http://www.saylor.org/site/wp-content/uploads/2011/09/Abstract-Algebra_-Theory-and-Applicatio-Thomas-W.-Judson.epub)  
+    [iBooks](https://resources.saylor.org/archived/wp-content/uploads/2011/09/Abstract-Algebra_-Theory-and-Applicatio-Thomas-W.-Judson.epub)  
         
      Instructions: Do problem 2 on page 297.  The solution can be found
     on page 406.  
@@ -310,12 +310,12 @@ Upon successful completion of this unit, the student will be able to:
     Algebras”**
     Link: Stephen F. Austin State University: Thomas W. Judson’s
     “[Abstract Algebra Theory and
-    Applications](http://www.saylor.org/site/wp-content/uploads/2011/09/MA232-AbstractAlgebraText.pdf)”
+    Applications](https://resources.saylor.org/archived/wp-content/uploads/2011/09/MA232-AbstractAlgebraText.pdf)”
     (PDF): “Lattices and Boolean Algebras”  
       
      Also available in:  
 
-    [iBooks](http://www.saylor.org/site/wp-content/uploads/2011/09/Abstract-Algebra_-Theory-and-Applicatio-Thomas-W.-Judson.epub)  
+    [iBooks](https://resources.saylor.org/archived/wp-content/uploads/2011/09/Abstract-Algebra_-Theory-and-Applicatio-Thomas-W.-Judson.epub)  
         
      Instructions: Please read 19.1: Lattices, pages 301 – 306.  
         
@@ -347,12 +347,12 @@ Upon successful completion of this unit, the student will be able to:
     Algebras”: “Exercise Problem 2”**
     Link: Stephen F. Austin State University: Thomas W. Judson’s
     “[Abstract Algebra Theory and
-    Applications](http://www.saylor.org/site/wp-content/uploads/2011/09/MA232-AbstractAlgebraText.pdf)”
+    Applications](https://resources.saylor.org/archived/wp-content/uploads/2011/09/MA232-AbstractAlgebraText.pdf)”
     (PDF): “Lattices and Boolean Algebras”: “Exercise Problem 2”  
       
      Also available in:  
 
-    [iBooks](http://www.saylor.org/site/wp-content/uploads/2011/09/Abstract-Algebra_-Theory-and-Applicatio-Thomas-W.-Judson.epub)  
+    [iBooks](https://resources.saylor.org/archived/wp-content/uploads/2011/09/Abstract-Algebra_-Theory-and-Applicatio-Thomas-W.-Judson.epub)  
         
      Instructions: Do problem 2 on page 315.  The solution can be found
     on page 406.  
@@ -370,12 +370,12 @@ Upon successful completion of this unit, the student will be able to:
     Algebras”**
     Link: Stephen F. Austin State University: Thomas W. Judson’s
     “[Abstract Algebra Theory and
-    Applications](http://www.saylor.org/site/wp-content/uploads/2011/09/MA232-AbstractAlgebraText.pdf)”
+    Applications](https://resources.saylor.org/archived/wp-content/uploads/2011/09/MA232-AbstractAlgebraText.pdf)”
     (PDF): “Lattices and Boolean Algebras”  
       
      Also available in:  
 
-    [iBooks](http://www.saylor.org/site/wp-content/uploads/2011/09/Abstract-Algebra_-Theory-and-Applicatio-Thomas-W.-Judson.epub)  
+    [iBooks](https://resources.saylor.org/archived/wp-content/uploads/2011/09/Abstract-Algebra_-Theory-and-Applicatio-Thomas-W.-Judson.epub)  
         
      Instructions: Please read 19.2: Boolean Algebras, pages 306 –
     312.  
@@ -392,12 +392,12 @@ Upon successful completion of this unit, the student will be able to:
     Algebras”: “Exercise Problem 6”**
     Link: Stephen F. Austin State University: Thomas W. Judson’s
     “[Abstract Algebra Theory and
-    Applications](http://www.saylor.org/site/wp-content/uploads/2011/09/MA232-AbstractAlgebraText.pdf)”
+    Applications](https://resources.saylor.org/archived/wp-content/uploads/2011/09/MA232-AbstractAlgebraText.pdf)”
     (PDF): “Lattices and Boolean Algebras”: “Exercise Problem 6”  
       
      Also available in:  
 
-    [iBooks](http://www.saylor.org/site/wp-content/uploads/2011/09/Abstract-Algebra_-Theory-and-Applicatio-Thomas-W.-Judson.epub)  
+    [iBooks](https://resources.saylor.org/archived/wp-content/uploads/2011/09/Abstract-Algebra_-Theory-and-Applicatio-Thomas-W.-Judson.epub)  
         
      Instructions: Do problem 6 on page 316.  The solution can be found
     on page 406.  
