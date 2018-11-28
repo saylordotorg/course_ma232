@@ -71,7 +71,7 @@ id="4.1"></span> 
 
 -   **Reading: Wikipedia’s “Permutations”**
     Link: Wikipedia’s “[Permutation
-    Group](https://resources.saylor.org/archived/wp-content/uploads/2011/05/Permutation-group.pdf)”
+    Group](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/05/Permutation-group.pdf)”
     (PDF)  
         
      Instructions: Please read the entire article.  This webpage
@@ -132,12 +132,12 @@ id="4.1"></span> 
     “Abstract Algebra Theory and Applications”: “Galois Theory”**
     Link: Stephen F. Austin State University: Thomas W. Judson’s
     “[Abstract Algebra Theory and
-    Applications](https://resources.saylor.org/archived/wp-content/uploads/2011/09/MA232-AbstractAlgebraText.pdf)”
+    Applications](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/09/MA232-AbstractAlgebraText.pdf)”
     (PDF): “Galois Theory”  
       
      Also available in:  
 
-    [iBooks](https://resources.saylor.org/archived/wp-content/uploads/2011/09/Abstract-Algebra_-Theory-and-Applicatio-Thomas-W.-Judson.epub)  
+    [iBooks](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/09/Abstract-Algebra_-Theory-and-Applicatio-Thomas-W.-Judson.epub)  
         
      Instructions: Please read 23.2: The Fundamental Theorem, pages 377
     – 383.  
@@ -154,12 +154,12 @@ id="4.1"></span> 
     “Exercise Problems 1, 2, 3, and 9”**
     Link: Stephen F. Austin State University: Thomas W. Judson’s
     “[Abstract Algebra Theory and
-    Applications](https://resources.saylor.org/archived/wp-content/uploads/2011/09/MA232-AbstractAlgebraText.pdf)”
+    Applications](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/09/MA232-AbstractAlgebraText.pdf)”
     (PDF): “Galois Theory”: “Exercise Problems 1, 2, 3, and 9”  
       
      Also available in:  
 
-    [iBooks](https://resources.saylor.org/archived/wp-content/uploads/2011/09/Abstract-Algebra_-Theory-and-Applicatio-Thomas-W.-Judson.epub)  
+    [iBooks](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/09/Abstract-Algebra_-Theory-and-Applicatio-Thomas-W.-Judson.epub)  
         
      Instructions: Do problems 1, 2, 3, and 9 on page 391.  The solution
     can be found on page 409.  
